@@ -1,0 +1,22 @@
+sudo apt-get update
+sudo apt-get install apache2
+sudo apt-get install mysl-server mysql-client
+elastic ip address 3.13.1.65
+
+
+
+
+
+
+
+
+
+
+links
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+https://www.guru99.com/creating-amazon-ec2-instance.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+https://www.logisticinfotech.com/blog/install-apache-php-mysql-phpmyadmin-aws-ec2-instance/
+https://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html
